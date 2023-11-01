@@ -1,0 +1,7 @@
+colorScheme = "congo"
+#defaultAppearance = "dark"
+article.showAuthor = false
+article.showReadingTime = false
+footer.showCopyright = false
+header.layout = "hybrid"
+list.groupByYear = false
