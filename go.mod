@@ -1,6 +1,6 @@
 module somethingilearned.today
 
-go 1.21.3
+go 1.21
 
 require (
 	github.com/canstand/compost v0.6.3 // indirect
