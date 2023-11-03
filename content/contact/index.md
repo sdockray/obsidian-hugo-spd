@@ -10,7 +10,7 @@ layout: simple
 ---
 ### Contact
 
-For academic matters: please contact me at the email address shown on [my Monash researcher profile](https://research.monash.edu/en/persons/sean-dockray).
+For academic matters: please contact me at the email address shown on [my Monash researcher profile](https://research.monash.edu/en/persons/sean-dockray): **sea<!-- nonsense -->n.dockray@mon<!-- just nonsense -->ash.e<!-- nonsense -->du**
 
 For anything personal: you can write to **s<!-- nonsense -->ean@somethingilearn<!-- just nonsense -->ed.to<!-- nonsense -->day**
 ### Social media
