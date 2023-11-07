@@ -1,6 +1,11 @@
 [[main]]
+  name = "projects"
+  pageRef = "projects/overview"
+  weight = 2
+
+[[main]]
   name = "writing"
-  pageRef = "writing"
+  pageRef = "writing/overview"
   weight = 3
 
 [[main]]

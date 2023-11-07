@@ -7,3 +7,5 @@ draft: false
 showPagination: false
 ---
 Artworks and longer-term projects
+
+[Environments 12]({{< ref "/projects/environments 12/index" >}})
