@@ -1,5 +1,5 @@
-colorScheme = "congo"
-#defaultAppearance = "dark"
+colorScheme = "cherry"
+defaultAppearance = "dark"
 article.showAuthor = false
 article.showReadingTime = false
 footer.showCopyright = false
